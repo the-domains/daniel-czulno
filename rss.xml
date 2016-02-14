@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Daniel Czulno]]></title>
         <description><![CDATA[Daniel Czulno]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/daniel-czulno/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 02:00:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 02:00:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/daniel-czulno/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test Post #2]]></title>
+            <description><![CDATA[<article><h1>Test Post #2</h1><p>Testing post</p></article>]]></description>
+            <link>https://thegrid.ai/daniel-czulno/test-post-2/index.html</link>
+            <guid isPermaLink="false">826b2dea-7a52-4c85-bcd6-9aa3c40f468e</guid>
+            <pubDate>Sun, 14 Feb 2016 01:59:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test Post #1]]></title>
             <description><![CDATA[<article><h1>Test Post #1</h1><p>Testing the website for the first time</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5ec52563fa772362f5b6aeca7f32cd845fb9d29.jpg"></article>]]></description>
-            <link>undefinedtest-post-1/index.html</link>
+            <link>https://thegrid.ai/daniel-czulno/test-post-1/index.html</link>
             <guid isPermaLink="false">10ee6af1-aeeb-4b59-ba9d-b6d0cbf04b76</guid>
             <pubDate>Sun, 14 Feb 2016 01:59:55 GMT</pubDate>
         </item>
