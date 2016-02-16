@@ -1,6 +1,6 @@
 name: Daniel Czulno
 favicon: null
-layout_spectrum: 0.9833
+layout_spectrum: 0.5242
 typography_spectrum: 0.93489
 title: 'Fatherhood, Investing, and Life'
 cta:
@@ -23,7 +23,7 @@ color:
     - '#373737'
     - '#655b4f'
   brandStrength: 0.1875
-  lightness: 0.40281299292109907
-  saturation: 0.6875
-  rhythmicContrast: 0.502555287675932
+  lightness: 0.375
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
