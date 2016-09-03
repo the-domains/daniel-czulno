@@ -1,20 +1,4 @@
-name: Daniel Czulno
-favicon: null
-layout_spectrum: 0.5242
 typography_spectrum: 0.93489
-title: 'Fatherhood, Investing, and Life'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#010103'
@@ -26,4 +10,23 @@ color:
   lightness: 0.375
   saturation: 0.1875
   rhythmicContrast: 0.75
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5242
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Daniel Czulno
+  email: danielczulno@yahoo.com
+name: Daniel Czulno
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'Fatherhood, Investing, and Life'
 purpose: []
